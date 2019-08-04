@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const KEY = 'AIzaSyAWnkFkxB97meDOpv9OhQvgbqchVX-GLFM';
+const KEY = '';
 
 
 const youtube = axios.create({
